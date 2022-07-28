@@ -1,0 +1,13 @@
+.circleStep {
+  background-color: red;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 15000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textHighLight {
+  color: #212121;
+}

@@ -1,0 +1,8 @@
+/* for horizontal alignment */
+.muHorizontalStepper {
+  direction: ltr !important;
+}
+
+.StepIconCustomize {
+  padding: 1rem 1rem;
+}
